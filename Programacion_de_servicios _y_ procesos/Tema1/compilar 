@@ -1,0 +1,6 @@
+primero compilamos 
+    gcc ejercicio10.c -o ejercicio10
+
+depues ejecutamos 
+    ./ejercicio10
+
