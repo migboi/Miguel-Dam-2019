@@ -1,0 +1,12 @@
+
+The Example module
+==================
+
+    >>> from TesteoDocStringExterno import Calcular
+
+    >>> Calcular(2,3,1)
+    1
+
+    >>> Calcular(2,4,1)
+    2.8284271247461903
+

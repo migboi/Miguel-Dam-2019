@@ -1,0 +1,7 @@
+primera forma añadir help(funcion) al final de la funcion 
+ejecutar python3 -m doctest -v nombre fichero
+
+
+segunda fora 
+dentro consola de python3 from archivo import funcion
+help(funcion)

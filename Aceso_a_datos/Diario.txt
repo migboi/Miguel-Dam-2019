@@ -1,0 +1,26 @@
+2019/09/16
+
+    crear un ususario github
+    usuario:migboi
+    correo:migboi@alu.iesserpis.org
+
+Recibes un corro de conformacion , crear un repositorio marcando Readme.
+    gitignore:ViasualStudio (c#)
+    https://github.com/migboi/ad
+
+clonar en mi home: git clone  https://github.com/migboi/ad.git 
+
+
+configuracion local 
+
+    git config --global user.name "migboi"
+    git config --global user.email migboi@alu.iesserpis.org
+
+Como hacer un cambio en el repositorio 
+    git add Diario.txt
+    git commit -m "comentario"
+    git push (para publicar una nueva version)
+    git status  (para revisar si hay nuevas versiones)
+    git cheout numero commit (para volver a una version anterior)
+    git diff(ves diferencias )
+

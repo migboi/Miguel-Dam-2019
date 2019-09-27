@@ -1,0 +1,237 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 185356  5944 ?        Ss   08:02   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    08:02   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        I<   08:02   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    08:02   0:00 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    08:02   0:08 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    08:02   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    08:02   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    08:02   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    08:02   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    08:02   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    08:02   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    08:02   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    08:02   0:00 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    08:02   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    08:02   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    08:02   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    08:02   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    08:02   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    08:02   0:00 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    08:02   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    08:02   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    08:02   0:00 [kdevtmpfs]
+root        32  0.0  0.0      0     0 ?        I<   08:02   0:00 [netns]
+root        33  0.0  0.0      0     0 ?        S    08:02   0:00 [rcu_tasks_kthre]
+root        34  0.0  0.0      0     0 ?        S    08:02   0:00 [kauditd]
+root        38  0.0  0.0      0     0 ?        S    08:02   0:00 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S    08:02   0:00 [oom_reaper]
+root        40  0.0  0.0      0     0 ?        I<   08:02   0:00 [writeback]
+root        41  0.0  0.0      0     0 ?        S    08:02   0:00 [kcompactd0]
+root        42  0.0  0.0      0     0 ?        SN   08:02   0:00 [ksmd]
+root        43  0.0  0.0      0     0 ?        SN   08:02   0:00 [khugepaged]
+root        44  0.0  0.0      0     0 ?        I<   08:02   0:00 [crypto]
+root        45  0.0  0.0      0     0 ?        I<   08:02   0:00 [kintegrityd]
+root        46  0.0  0.0      0     0 ?        I<   08:02   0:00 [kblockd]
+root        48  0.0  0.0      0     0 ?        I<   08:02   0:00 [ata_sff]
+root        49  0.0  0.0      0     0 ?        I<   08:02   0:00 [md]
+root        50  0.0  0.0      0     0 ?        I<   08:02   0:00 [edac-poller]
+root        51  0.0  0.0      0     0 ?        I<   08:02   0:00 [devfreq_wq]
+root        52  0.0  0.0      0     0 ?        I<   08:02   0:00 [watchdogd]
+root        55  0.0  0.0      0     0 ?        S    08:02   0:01 [kswapd0]
+root        56  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/u9:0]
+root        57  0.0  0.0      0     0 ?        S    08:02   0:00 [ecryptfs-kthrea]
+root        99  0.0  0.0      0     0 ?        I<   08:02   0:00 [kthrotld]
+root       100  0.0  0.0      0     0 ?        I<   08:02   0:00 [acpi_thermal_pm]
+root       104  0.0  0.0      0     0 ?        I<   08:02   0:00 [ipv6_addrconf]
+root       113  0.0  0.0      0     0 ?        I<   08:02   0:00 [kstrp]
+root       134  0.0  0.0      0     0 ?        I<   08:02   0:00 [charger_manager]
+root       183  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_0]
+root       184  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_0]
+root       185  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_1]
+root       186  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_1]
+root       187  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_2]
+root       188  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_2]
+root       189  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_3]
+root       190  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_3]
+root       191  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_4]
+root       192  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_4]
+root       193  0.0  0.0      0     0 ?        S    08:02   0:00 [scsi_eh_5]
+root       194  0.0  0.0      0     0 ?        I<   08:02   0:00 [scsi_tmf_5]
+root       200  0.0  0.0      0     0 ?        S    08:02   0:03 [i915/signal:0]
+root       201  0.0  0.0      0     0 ?        S    08:02   0:00 [i915/signal:1]
+root       202  0.0  0.0      0     0 ?        S    08:02   0:00 [i915/signal:2]
+root       203  0.0  0.0      0     0 ?        S    08:02   0:00 [i915/signal:4]
+root       211  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/1:1H]
+root       213  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/2:1H]
+root       215  0.0  0.0      0     0 ?        I<   08:02   0:02 [kworker/3:1H]
+root       290  0.0  0.0      0     0 ?        S    08:02   0:00 [jbd2/sda2-8]
+root       291  0.0  0.0      0     0 ?        I<   08:02   0:00 [ext4-rsv-conver]
+root       331  0.0  0.0  35392  4668 ?        Ss   08:02   0:00 /lib/systemd/systemd-journald
+root       349  0.0  0.1 134432  9060 ?        Ss   08:02   0:00 /lib/systemd/systemd-udevd
+root       365  0.0  0.0      0     0 ?        I<   08:02   0:00 [rpciod]
+root       366  0.0  0.0      0     0 ?        I<   08:02   0:00 [xprtiod]
+root       370  0.0  0.0      0     0 ?        I<   08:02   0:00 [kworker/0:1H]
+root       379  0.0  0.0      0     0 ?        S<   08:02   0:00 [loop0]
+root       382  0.0  0.0      0     0 ?        S<   08:02   0:00 [loop1]
+root       383  0.0  0.0      0     0 ?        S<   08:02   0:00 [loop2]
+root       385  0.0  0.0      0     0 ?        S<   08:02   0:00 [loop3]
+root       443  0.0  0.0      0     0 ?        I<   08:02   0:00 [led_workqueue]
+root       708  0.0  0.0      0     0 ?        S    08:02   0:00 [jbd2/sda3-8]
+root       709  0.0  0.0      0     0 ?        I<   08:02   0:00 [ext4-rsv-conver]
+systemd+   891  0.0  0.0  96056  2396 ?        Ssl  08:02   0:00 /lib/systemd/systemd-timesyncd
+root       896  0.0  0.0  47624  3612 ?        Ss   08:02   0:00 /sbin/rpcbind -f -w
+message+   908  0.0  0.1 137104 15280 ?        Ss   08:02   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       936  0.0  0.0   4396  1252 ?        Ss   08:02   0:00 /usr/sbin/acpid
+root       937  0.0  0.1 168948  8776 ?        Ssl  08:02   0:01 /usr/sbin/thermald --no-daemon --dbus-enable
+root       938  0.0  0.0  25196  2864 ?        Ss   08:02   0:00 /usr/sbin/cron -f
+root       939  0.0  0.1 443684 15936 ?        Ssl  08:02   0:00 /usr/sbin/NetworkManager --no-daemon
+root       943  0.0  0.2 554880 23280 ?        Ssl  08:02   0:01 /usr/lib/snapd/snapd
+root       946  0.0  0.1 365588 15488 ?        Ssl  08:02   0:00 /usr/lib/accountsservice/accounts-daemon
+root       949  0.0  0.0  25216  4244 ?        Ss   08:02   0:00 /usr/sbin/smartd -n
+syslog     960  0.0  0.1 342804  8192 ?        Ssl  08:02   0:00 /usr/sbin/rsyslogd -n
+root       961  0.0  0.0  20400  2948 ?        Ss   08:02   0:00 /lib/systemd/systemd-logind
+root      1063  0.0  0.1 1068576 12120 ?       Ssl  08:02   0:01 /usr/sbin/nscd
+root      1123  0.0  0.0  19472  2228 ?        Ss   08:02   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1151  0.0  0.0 342164  5844 ?        SLsl 08:02   0:00 /usr/sbin/lightdm
+root      1158  0.0  0.0 270688  7204 ?        Ssl  08:02   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1166  0.0  0.2 168892 18676 ?        Ssl  08:02   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root      1184  3.5 14.3 1487340 1154992 tty7  Ssl+ 08:02   8:17 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1189  0.0  0.0  59636  5064 ?        Ss   08:02   0:00 /usr/sbin/sshd -D
+rtkit     1381  0.0  0.0 175308  1504 ?        SNsl 08:02   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1393  0.0  0.1 349824  9956 ?        Ssl  08:02   0:00 /usr/lib/upower/upowerd
+colord    1405  0.0  0.1 295788 10804 ?        Ssl  08:02   0:00 /usr/lib/colord/colord
+nobody    1427  0.0  0.0  47416  4196 ?        S    08:02   0:01 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+whoopsie  1656  0.0  0.1 368288 12328 ?        Ssl  08:02   0:00 /usr/bin/whoopsie -f
+root      1666  0.0  0.0      0     0 ?        I<   08:02   0:00 [iprt-VBoxWQueue]
+root      1670  0.0  0.0      0     0 ?        S    08:02   0:00 [iprt-VBoxTscThr]
+root      1864  0.0  0.0  10216   536 tty1     Ss+  08:02   0:00 /sbin/agetty --noclear tty1 linux
+root      1872  0.0  0.1 323316 15940 ?        Sl   08:03   0:00 lightdm --session-child 12 21
+migboi    1931  0.0  0.0  37052  4548 ?        Ss   08:03   0:00 /lib/systemd/systemd --user
+migboi    1932  0.0  0.0 309908  6808 ?        S    08:03   0:00 (sd-pam)
+migboi    1937  0.0  0.0 208040  6432 ?        Sl   08:03   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+migboi    1939  0.0  0.0  41152  4720 ?        Ss   08:03   0:00 /sbin/upstart --user
+migboi    2034  0.0  0.0  35840  4332 ?        Ss   08:03   0:03 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-tdEpA75AjR
+migboi    2046  0.0  0.1  88860  9752 ?        Ss   08:03   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+migboi    2062  0.0  0.0  35412   280 ?        S    08:03   0:00 upstart-udev-bridge --daemon --user
+migboi    2068  0.0  0.0  35572   296 ?        S    08:03   0:00 upstart-file-bridge --daemon --user
+migboi    2070  0.0  0.0  35344   296 ?        S    08:03   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+migboi    2072  0.0  0.0  35396  1840 ?        S    08:03   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+migboi    2082  0.0  0.1 415464  9060 ?        Ssl  08:03   0:11 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+migboi    2098  0.0  0.0 277212  6424 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfsd
+migboi    2103  0.0  0.0 406864  4936 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/24092/gvfs -f -o big_writes
+migboi    2106  0.0  0.0 267052  6604 ?        Sl   08:03   0:00 /usr/lib/ibus/ibus-dconf
+migboi    2119  0.0  0.3 528216 29448 ?        Ssl  08:03   0:07 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+migboi    2122  0.0  0.3 481008 30332 ?        Sl   08:03   0:04 /usr/lib/ibus/ibus-ui-gtk3
+migboi    2126  0.0  0.2 431016 21092 ?        Sl   08:03   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+migboi    2140  0.0  0.0 191316  6608 ?        Sl   08:03   0:02 /usr/lib/ibus/ibus-engine-simple
+migboi    2145  0.0  0.0 169248   676 ?        Ss   08:03   0:00 gpg-agent --homedir /home/migboi/.gnupg --use-standard-socket --daemon
+migboi    2155  0.0  0.5 720640 42864 ?        Ssl  08:03   0:04 /usr/lib/x86_64-linux-gnu/hud/hud-service
+migboi    2157  0.0  0.3 925128 32132 ?        Ssl  08:03   0:01 /usr/lib/unity-settings-daemon/unity-settings-daemon
+migboi    2170  0.0  0.0 338004  5780 ?        Ssl  08:03   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+migboi    2171  0.0  0.1 558632 15200 ?        Ssl  08:03   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+migboi    2178  0.0  0.0  34864  3496 ?        S    08:03   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+migboi    2181  0.0  0.4 644724 35816 ?        Ssl  08:03   0:07 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+migboi    2198  0.0  0.0 206864  6364 ?        Sl   08:03   0:02 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+migboi    2218  0.0  0.0 349104  7100 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+migboi    2219  0.0  0.0 409912  5976 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+migboi    2220  0.0  0.1 424896  9536 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+migboi    2225  0.0  0.2 1490524 17720 ?       Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+migboi    2227  0.0  0.3 709880 27924 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+migboi    2228  0.0  0.1 733864 10564 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+migboi    2229  0.0  0.2 542496 23820 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+migboi    2230  0.0  0.0 955676  6764 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+migboi    2263  1.4  0.2 438016 17048 ?        S<l  08:03   3:26 /usr/bin/pulseaudio --start --log-target=syslog
+migboi    2276  0.0  0.2 1245808 23796 ?       Sl   08:03   0:00 /usr/lib/evolution/evolution-source-registry
+migboi    2277  0.0  0.1 403148 12864 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+migboi    2317  0.0  0.0 178664  4820 ?        Sl   08:03   0:00 /usr/lib/dconf/dconf-service
+migboi    2330  0.0  0.7 857756 60072 ?        Sl   08:03   0:00 /usr/lib/evolution/evolution-calendar-factory
+migboi    2335  0.0  0.4 533176 34192 ?        Sl   08:03   0:00 python3 /opt/iesserpis/update-pc-gui.py
+migboi    2355  4.1  2.6 1567640 215788 ?      Ssl  08:03   9:51 compiz
+migboi    2357  0.0  0.2 432536 20364 ?        Sl   08:03   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+migboi    2359  0.0  0.4 593016 34664 ?        Sl   08:03   0:00 nm-applet
+migboi    2385  0.1  0.7 1436068 63812 ?       Sl   08:03   0:17 nautilus -n
+migboi    2389  0.0  1.3 1367156 108456 ?      SLl  08:03   0:03 /usr/bin/gnome-software --gapplication-service
+migboi    2393  0.0  0.2 580032 20212 ?        Sl   08:03   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+root      2402  0.0  0.4 502168 36692 ?        Ssl  08:03   0:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+migboi    2412  0.0  0.0 280100  7028 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2420  0.0  0.0 358724  7508 ?        Ssl  08:03   0:01 /usr/lib/udisks2/udisksd --no-debug
+migboi    2428  0.0  0.1 406304  9292 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+migboi    2434  0.0  0.0 262192  4372 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+migboi    2440  0.0  0.0 274388  4948 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+migboi    2445  0.0  0.0 260232  5540 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+migboi    2459  0.0  0.6 876304 49788 ?        Sl   08:03   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2330x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2330/2
+migboi    2461  0.0  0.0 353424  6528 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+migboi    2475  0.0  0.2 685224 18344 ?        Sl   08:03   0:00 /usr/lib/evolution/evolution-addressbook-factory
+migboi    2477  0.0  0.6 1188232 49896 ?       Sl   08:03   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2330x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2330/3
+migboi    2497  0.0  0.2 760744 17952 ?        Sl   08:03   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2475x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2475/2
+migboi    2544  0.0  0.0 188908  5576 ?        Sl   08:03   0:00 /usr/lib/gvfs/gvfsd-metadata
+migboi    2580  0.0  0.2 584192 16316 ?        Sl   08:03   0:01 zeitgeist-datahub
+migboi    2590  0.0  0.0   4504   704 ?        S    08:03   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+migboi    2606  0.0  0.0 410408  7752 ?        Sl   08:03   0:00 /usr/bin/zeitgeist-daemon
+migboi    2613  0.0  0.2 318964 17288 ?        Sl   08:03   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+migboi    3683  0.0  0.0 438284  7364 ?        Sl   08:05   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+migboi    3986  0.0  0.0 289000  5220 ?        Sl   08:06   0:01 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+migboi    3989  0.0  0.0 289000  5192 ?        Sl   08:06   0:01 /usr/lib/speech-dispatcher-modules/sd_cicero /etc/speech-dispatcher/modules/cicero.conf
+migboi    3990  0.0  0.0      0     0 ?        Z    08:06   0:00 [sd_cicero] <defunct>
+migboi    3993  0.0  0.0 289012  5052 ?        Sl   08:06   0:01 /usr/lib/speech-dispatcher-modules/sd_generic /etc/speech-dispatcher/modules/generic.conf
+migboi    3996  0.0  0.1 329836  8500 ?        Sl   08:06   0:01 /usr/lib/speech-dispatcher-modules/sd_espeak /etc/speech-dispatcher/modules/espeak.conf
+migboi    4001  0.0  0.0  99732  2396 ?        Ssl  08:06   0:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/24092/speech-dispatcher/speechd.sock
+migboi    4034  0.0  0.2 639772 17568 ?        Sl   08:07   0:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+migboi    4045  0.0  0.3 571568 25008 ?        Sl   08:07   0:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+migboi    4047  0.0  0.1 772996 14488 ?        Sl   08:07   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+root      4525  0.0  0.0  87916  7568 ?        Ss   08:07   0:00 /usr/sbin/cupsd -l
+root      4526  0.0  0.1 266576  8600 ?        Ssl  08:07   0:00 /usr/sbin/cups-browsed
+lp        4527  0.0  0.0  73036  5000 ?        S    08:07   0:00 /usr/lib/cups/notifier/dbus dbus://
+root      4885  0.0  0.0      0     0 ?        I<   08:10   0:00 [dio/sda3]
+migboi    5112  0.0  0.0 429512  7040 ?        Sl   08:13   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+migboi    5124  0.0  0.2 734908 16896 ?        Sl   08:13   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.4 /org/gtk/gvfs/exec_spaw/3
+migboi    5140  0.0  0.0 438148  6804 ?        Sl   08:13   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/5
+root      5307  0.0  0.0      0     0 ?        I    08:20   0:04 [kworker/3:1]
+migboi    6676  0.0  0.1 329004  9036 ?        Sl   08:53   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.4 /org/gtk/gvfs/exec_spaw/7
+migboi    8551  0.0  0.1 328320 13704 ?        Sl   09:05   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+root      9641  0.0  0.0      0     0 ?        I    10:40   0:00 [kworker/0:0]
+root      9988  0.0  0.0      0     0 ?        I    10:48   0:00 [kworker/1:1]
+migboi   10225  0.0  0.3 493164 31788 ?        Sl   10:50   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+root     10277  0.0  0.0      0     0 ?        S    10:50   0:00 [irq/125-mei_me]
+root     10420  0.0  0.0  14216  3672 ?        S    10:50   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-enp2s0.pid -lf /var/lib/NetworkManager/dhclient-5400302a-678b-33b7-b3a2-60d356ac9f32-enp2s0.lease -cf /var/lib/NetworkManager/dhclient-enp2s0.conf enp2s0
+avahi    10495  0.0  0.0  36872  3560 ?        Ss   10:50   0:00 avahi-daemon: running [PC02.local]
+avahi    10498  0.0  0.0  36760   300 ?        S    10:50   0:00 avahi-daemon: chroot helper
+root     10692  0.0  0.0  24712  5012 ?        S    10:51   0:00 socat -T 60 openssl-connect:PC00.local:789,cafile=/etc/epoptes/server.crt,commonname="",interval=60,forever EXEC:bash -c \"exec -a epoptes-client sh\"
+root     10693  0.0  0.0  24712  4944 ?        S    10:51   0:00 socat -T 60 openssl-connect:PC00.local:789,cafile=/etc/epoptes/server.crt,commonname="",interval=60,forever EXEC:bash -c \"exec -a epoptes-client sh\"
+root     10761  0.0  0.0   4504  1744 ?        S    10:58   0:00 epoptes-client
+root     10765  0.0  0.0   4504  1700 ?        S    10:58   0:00 epoptes-client
+migboi   11099  1.7  0.9 783876 73044 ?        Sl   11:24   0:36 evince /tmp/mozilla_migboi0/Ejercicios clase_Unidad 1_PSP.pdf
+migboi   11105  0.0  0.0 178496  4056 ?        Sl   11:24   0:00 /usr/lib/evince/evinced
+root     11156  0.0  0.0      0     0 ?        I    11:25   0:01 [kworker/u8:2]
+root     11208  0.1  0.0      0     0 ?        I    11:31   0:01 [kworker/u8:0]
+root     11296  0.0  0.0      0     0 ?        I    11:36   0:00 [kworker/u8:1]
+root     11409  0.0  0.0      0     0 ?        I    11:38   0:00 [kworker/2:2]
+root     11430  0.0  0.0      0     0 ?        I    11:40   0:00 [kworker/u8:3]
+migboi   11909  4.6  3.4 2287728 278176 ?      Sl   11:44   0:40 /usr/lib/firefox/firefox
+migboi   11971  0.8  1.9 1634828 153204 ?      Sl   11:44   0:07 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12036  0.1  1.6 1572412 132352 ?      Sl   11:44   0:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 122 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12052  0.2  1.6 1583444 130800 ?      Sl   11:44   0:01 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 122 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12063  2.4  3.8 1950324 309940 ?      Sl   11:44   0:21 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 122 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12078  1.4  3.0 1867188 242048 ?      Sl   11:44   0:12 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 122 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12154  0.3  1.3 1551588 107244 ?      Sl   11:44   0:02 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 5851 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+migboi   12239  2.4  2.0 1779636 165284 ?      Sl   11:44   0:21 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 6637 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+root     12464  0.0  0.0      0     0 ?        I    11:48   0:00 [kworker/0:2]
+root     12470  0.0  0.0      0     0 ?        I    11:49   0:00 [kworker/2:1]
+root     12549  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/3:2]
+root     12562  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/1:2]
+root     12608  0.0  0.0      0     0 ?        I    11:53   0:00 [kworker/u8:4]
+root     12615  0.0  0.0      0     0 ?        I    11:54   0:00 [kworker/0:1]
+migboi   12652  0.0  0.9 1525592 79100 ?       Sl   11:54   0:00 /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 6684 -prefMapSize 179080 -parentBuildID 20190517141553 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 11909 true tab
+root     12676  0.0  0.0      0     0 ?        I    11:54   0:00 [kworker/2:0]
+migboi   12717  0.3  0.4 659016 36156 ?        Sl   11:55   0:00 /usr/lib/gnome-terminal/gnome-terminal-server
+migboi   12724  0.0  0.0  17120  5236 pts/2    Ss+  11:55   0:00 bash
+root     12784  0.0  0.0      0     0 ?        I    11:58   0:00 [kworker/3:0]
+root     12794  0.0  0.0      0     0 ?        I    11:58   0:00 [kworker/1:0]
+migboi   12797  0.0  0.0   4220   620 ?        S    11:58   0:00 /home/migboi/Escritorio/a.out
+migboi   12798  0.0  0.0   4504   736 ?        S    11:58   0:00 sh -c ps -aux > ejecucion9
+migboi   12800  0.0  0.0  31696  1456 ?        R    11:58   0:00 ps -aux

@@ -1,0 +1,14 @@
+The Example module
+==================
+
+    >>> from Resistencia import res
+    
+    >>> res(1,2,3) 
+    0.6666666666666666
+
+
+    >>> res(3,2,1)
+    6.0
+
+    >>> res(2,2,2)
+    2.0

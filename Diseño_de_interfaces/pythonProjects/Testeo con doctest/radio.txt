@@ -1,0 +1,23 @@
+
+the implements function calculating torque
+==========================================
+
+the value of parament e is 90,
+
+
+
+>>> from radio import radios
+
+>>> radios(5,5,90)
+1.5308084989341915e-15
+
+
+>>> radios(10,12,90)
+7.34788079488412e-15
+
+
+
+>>> radios(20,25,90)
+3.061616997868383e-14
+
+

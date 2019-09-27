@@ -1,0 +1,17 @@
+    the info of the fuction
+=====================================
+
+>>> from res import reselec
+
+    now use exemples
+
+>>> reselec(5,5,5)
+5.0
+
+>>> reselec(1,2,3)
+0.6666666666666666
+
+
+>>> reselec(7,8,9)
+6.222222222222221
+

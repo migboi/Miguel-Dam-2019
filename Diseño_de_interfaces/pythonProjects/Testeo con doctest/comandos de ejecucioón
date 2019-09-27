@@ -1,0 +1,12 @@
+    Doctest externo 
+
+python3 -m doctest -v Doctest1.txt
+
+    Doctest interno
+
+python3 -m doctest -v testeoDoble.py 
+
+
+
+round(math.sqrt(2),2)
+
